@@ -1,0 +1,25 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+
+.inicio .titulo {
+    color: rgb(124, 176, 194);
+    text-align: center;
+}
+
+.inicio .para-um {
+    text-align: center;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+.coracao {
+    text-align: center;
+
+}
+
+.compras .lista {
+    background-color: rgb(124, 176, 194);
+    color: white;
+}

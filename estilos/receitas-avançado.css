@@ -1,0 +1,26 @@
+/* Página de Erro */
+
+
+.mensagem {
+    color:rgb(125, 177, 194);
+    text-align: center;
+}
+
+.mensagem .mensagem-um {
+    font-size: 45px;
+}
+
+.mensagem .mensagem-dois {
+    padding-bottom: 10%;
+}
+
+.bloco-botao-home {
+    text-align: center;
+}
+
+.bloco-botao-home .botao-home {
+    background-color: rgb(125, 177, 194);
+    font-size: 16px;
+}
+
+/* Página de Erro */

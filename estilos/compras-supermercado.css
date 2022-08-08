@@ -1,0 +1,111 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+
+
+
+
+
+/*topo do site*/
+
+.bloco-titulo .titulo-pagina {
+    justify-content: center;
+    text-align: center;
+    color:rgb(125, 177, 194);
+}
+
+.bloco-titulo .para-titulo {
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+    font-weight: 600;
+    color:rgb(125, 177, 194);
+}
+
+/*topo do site*/
+
+
+
+
+
+/*parte conselho inicial*/
+
+.bloco-conselho .titulo {
+    background-color: rgb(125, 177, 194);
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
+
+/*parte conselho inicial*/
+
+
+
+
+
+/*parte lista de compras*/
+
+.lista-compras .lista-titulo {
+    background-color: rgb(125, 177, 194);
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
+
+.lista-compras .strong {
+    color:  rgb(125, 177, 194);
+}
+
+.lista-compras .lista-um {
+   color: rgb(125, 177, 194);
+   font-weight: 600;
+}
+
+.lista-compras .lista-dois {
+    color: rgb(125, 177, 194);
+    font-weight: 600;
+ }
+
+ .lista-compras .lista-tres {
+    color: rgb(125, 177, 194);
+    font-weight: 600;
+ }
+  
+ .lista-quatro {
+    color: rgb(125, 177, 194);
+    font-weight: 600;
+ }
+
+ .lista-quatro .esse-nao {
+    color: black;
+    font-weight: 500;
+    font-size: 15px;
+ }
+
+/*parte lista de compras*/
+
+
+
+
+
+/*parte final do site*/
+
+.bloco-botao-home {
+    display: flex;
+    text-align: center;
+    justify-content: center;  
+}
+
+.bloco-botao-home .botao-home {
+    background-color: rgb(125, 177, 194);
+    color: white;
+    font-size: 16px;
+}
+
+.bar.final {
+    background-color: rgb(125, 177, 194);
+    color: rgb(125, 177, 194);
+}
+
+/*parte final do site*/

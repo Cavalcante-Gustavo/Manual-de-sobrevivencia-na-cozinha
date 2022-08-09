@@ -1,0 +1,80 @@
+.topo {
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+.topo .titulo {
+    color: rgb(125, 177, 194);
+    font-size: 40px;
+}
+
+.topo .descrição {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+button {
+    background-color:rgb(125, 177, 194);
+    color: white;
+    font-size: 16px;
+}
+
+
+
+
+.divisão-um {
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+.divisão-um .titulo {
+    background-color: rgb(125, 177, 194);
+    color: white;
+}
+
+
+
+
+
+
+.divisão-dois {
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+.divisão-dois .titulo {
+    background-color: rgb(125, 177, 194);
+    color: white;
+}
+
+
+
+
+
+
+
+.divisão-tres {
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.divisão-tres .titulo {
+    background-color: rgb(125, 177, 194);
+    color: white;
+}
+
+
+
+
+
+
+
+.bloco-botao-home {
+    text-align: center;
+}
+
+.botao-home {
+    background-color: rgb(125, 177, 194);
+    font-size: 16px;
+    color: white;
+}

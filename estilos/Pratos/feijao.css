@@ -2,22 +2,17 @@
     font-family: Helvetica, sans-serif;
 }
 
-.cabeçalho {
-    text-align: center;
-}
-
 .cabeçalho .titulo {
+    text-align: center;
     color: rgb(125, 177, 194);
     font-size: 60px;
 }
 
 .cabeçalho .descrição {
-   color: rgb(125, 177, 194);
-   font-weight: 600;
-   padding-left: 22%;
-   padding-right: 22%;
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
 }
-
 
 
 
@@ -32,10 +27,9 @@
 }
 
 .divisão-um li {
-    color: rgb(125, 177, 194);
+    color:rgb(125, 177, 194);
     font-weight: 600;
-    font-size: 16px;
-    margin: 8px 0;
+    margin: 4px;
 }
 
 
@@ -43,11 +37,6 @@
 
 
 
-
-
-.divisão-dois {
-    padding-bottom: 8px;
-}
 
 .divisão-dois .titulo {
     background-color: rgb(125, 177, 194);
@@ -55,13 +44,15 @@
     font-size: 30px;
 }
 
-.divisão-dois li {
-    color: rgb(125, 177, 194);
-    font-weight: 600;
-    margin: 8px 0;
+.divisão-dois .bold {
+    color:rgb(125, 177, 194);
 }
 
-
+.divisão-dois li {
+    color:rgb(125, 177, 194);
+    font-weight: 600;
+    margin: 7px;
+}
 
 
 
@@ -70,23 +61,17 @@
 
 .rodapé {
     text-align: center;
-    padding-left: 10%;
-    padding-right: 10%;
-    padding-bottom: 2%;
-}
-
-.rodapé .color {
-    color: rgb(125, 177, 194);
+    color:rgb(125, 177, 194);
+    padding-top: 3%;
     font-weight: 700;
-    padding-top: 5%;
 }
 
 .bloco-botao-receitas {
     text-align: center;
-    padding-bottom: 20px;
+    padding-top: 1%;
 }
 
-.botao-receitas{
+.botao-receitas {
     background-color: rgb(125, 177, 194);
     color: white;
     font-size: 16px;
@@ -94,6 +79,7 @@
 
 .bloco-botao-home {
     text-align: center;
+    padding-top: 1%;
 }
 
 .botao-home {

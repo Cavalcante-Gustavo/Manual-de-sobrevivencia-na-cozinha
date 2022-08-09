@@ -7,7 +7,6 @@
 
 
 
-/*topo do site*/
 
 .bloco-titulo .titulo-pagina {
     justify-content: center;
@@ -23,13 +22,13 @@
     color:rgb(125, 177, 194);
 }
 
-/*topo do site*/
 
 
 
 
 
-/*parte conselho inicial*/
+
+
 
 .bloco-conselho .titulo {
     background-color: rgb(125, 177, 194);
@@ -38,13 +37,13 @@
     justify-content: center;
 }
 
-/*parte conselho inicial*/
 
 
 
 
 
-/*parte lista de compras*/
+
+
 
 .lista-compras .lista-titulo {
     background-color: rgb(125, 177, 194);
@@ -55,6 +54,10 @@
 
 .lista-compras .strong {
     color:  rgb(125, 177, 194);
+}
+
+.lista-compras li {
+    margin: 4px 0;
 }
 
 .lista-compras .lista-um {
@@ -83,13 +86,13 @@
     font-size: 15px;
  }
 
-/*parte lista de compras*/
+
+ 
 
 
 
 
 
-/*parte final do site*/
 
 .bloco-botao-home {
     display: flex;
@@ -107,5 +110,3 @@
     background-color: rgb(125, 177, 194);
     color: rgb(125, 177, 194);
 }
-
-/*parte final do site*/

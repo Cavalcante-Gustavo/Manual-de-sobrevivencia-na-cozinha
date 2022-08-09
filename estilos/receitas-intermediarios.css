@@ -1,3 +1,7 @@
+* { 
+    font-family: Helvetica, sans-serif;
+}
+
 .cabeçalho {
     text-align: center;
 }
@@ -11,15 +15,23 @@
 
 
 
+
 .divisão-um {
     text-align: center;
-    padding-bottom: 5%;
+    padding-bottom: 2%;
 }
 
 .divisão-um .titulo {
     background-color:  rgb(125, 177, 194);
     color: white;
 }
+
+.divisão-um p {
+    color: rgb(125, 177, 194);
+    padding-top: 35px;
+    font-weight: 700;
+}
+
 
 
 
@@ -28,13 +40,21 @@
 
 .divisão-dois {
     text-align: center;
-    padding-bottom: 5%;
+    padding-bottom: 2%;
 }
 
 .divisão-dois .titulo {
     background-color:rgb(125, 177, 194);
     color: white;
 }
+
+.divisão-dois p {
+    color: rgb(125, 177, 194);
+    padding-top: 35px;
+    font-weight: 700;
+}
+
+
 
 
 
@@ -49,6 +69,12 @@
 .divisão-tres .titulo {
     background-color:rgb(125, 177, 194);
     color: white;
+}
+
+.divisão-tres p {
+    color: rgb(125, 177, 194);
+    padding-top: 35px;
+    font-weight: 700;
 }
 
 

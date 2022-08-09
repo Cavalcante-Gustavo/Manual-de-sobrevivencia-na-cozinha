@@ -1,5 +1,6 @@
-/* Página de Erro */
-
+* { 
+    font-family: Helvetica, sans-serif;
+}
 
 .mensagem {
     color:rgb(125, 177, 194);

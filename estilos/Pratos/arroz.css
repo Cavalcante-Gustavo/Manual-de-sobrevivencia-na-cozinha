@@ -1,0 +1,102 @@
+* { 
+    font-family: Helvetica, sans-serif;
+}
+
+.cabeçalho {
+    text-align: center;
+}
+
+.cabeçalho .titulo {
+    color: rgb(125, 177, 194);
+    font-size: 60px;
+}
+
+.cabeçalho .descrição {
+   color: rgb(125, 177, 194);
+   font-weight: 600;
+   padding-left: 22%;
+   padding-right: 22%;
+}
+
+
+
+
+
+
+
+
+.divisão-um .titulo {
+    background-color: rgb(125, 177, 194);
+    color: white;
+    font-size: 30px;
+}
+
+.divisão-um li {
+    color: rgb(125, 177, 194);
+    font-weight: 600;
+    font-size: 16px;
+    margin: 8px 0;
+}
+
+
+
+
+
+
+
+
+.divisão-dois {
+    padding-bottom: 8px;
+}
+
+.divisão-dois .titulo {
+    background-color: rgb(125, 177, 194);
+    color: white;
+    font-size: 30px;
+}
+
+.divisão-dois li {
+    color: rgb(125, 177, 194);
+    font-weight: 600;
+    margin: 8px 0;
+}
+
+
+
+
+
+
+
+
+.rodapé {
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 5%;
+}
+
+.rodapé .color {
+    color: rgb(125, 177, 194);
+    font-weight: 700;
+}
+
+.bloco-botao-receitas {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.botao-receitas{
+    background-color: rgb(125, 177, 194);
+    color: white;
+    font-size: 16px;
+}
+
+.bloco-botao-home {
+    text-align: center;
+}
+
+.botao-home {
+    background-color: rgb(125, 177, 194);
+    color: white;
+    font-size: 16px;
+}

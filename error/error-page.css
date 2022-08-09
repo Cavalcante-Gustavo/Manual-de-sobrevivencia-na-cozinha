@@ -1,4 +1,6 @@
-/* Página de Erro */
+* { 
+    font-family: Helvetica, sans-serif;
+}
 
 .blocao-error {
     text-align: center;
